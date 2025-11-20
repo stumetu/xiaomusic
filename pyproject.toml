@@ -3,7 +3,7 @@ name = "xiaomusic"
 version = "0.3.100"
 description = "Play Music with xiaomi AI speaker"
 authors = [
-{name = "涵曦", email = "im.hanxi@gmail.com"},
+{name = "kali", email = "none@none.com"},
 ]
 dependencies = [
     "aiohttp>=3.8.6",
