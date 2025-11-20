@@ -1,4 +1,4 @@
-w[project]
+[project]
 name = "xiaomusic"
 version = "0.3.100"
 description = "Play Music with xiaomi AI speaker"
